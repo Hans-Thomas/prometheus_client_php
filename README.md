@@ -17,7 +17,7 @@ While the first needs a separate binary running, the second just needs the [APC]
 Add as [Composer](https://getcomposer.org/) dependency:
 
 ```sh
-composer require endclothing/prometheus_client_php
+composer require hans-thomas/prometheus_client_php
 ```
 
 ## Usage
@@ -111,7 +111,7 @@ Also look at the [examples](examples).
 
 ### Dependencies
 
-* PHP ^7.3
+* PHP ^7.4
 * PHP Redis extension
 * PHP APCu extension
 * [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
